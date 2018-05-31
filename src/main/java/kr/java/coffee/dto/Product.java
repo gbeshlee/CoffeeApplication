@@ -17,6 +17,12 @@ public class Product {
 		return code;
 	}
 
+	public Product(String code, String name, int price) {
+		this.code = code;
+		this.name = name;
+		this.price = price;
+	}
+
 	public void setCode(String code) {
 		this.code = code;
 	}
