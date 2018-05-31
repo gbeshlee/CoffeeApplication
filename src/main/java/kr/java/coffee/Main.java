@@ -22,6 +22,6 @@ public class Main {
 	}
 	
 	// 이부분은 이클립스 추가
-
+	// github 입력
 }
 
