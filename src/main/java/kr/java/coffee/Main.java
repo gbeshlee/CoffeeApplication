@@ -20,6 +20,6 @@ public class Main {
 			System.out.println("다름");
 		}
 	}
-
+	// github 입력
 }
 
