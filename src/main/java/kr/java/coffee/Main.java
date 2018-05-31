@@ -20,6 +20,8 @@ public class Main {
 			System.out.println("다름");
 		}
 	}
+	
+	// 이부분은 이클립스 추가
 
 }
 
